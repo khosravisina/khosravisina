@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sina khosravi
 - 👀 I’m interested in cheminformatics
 - 🌱 I’m currently learning drug discovery
-- 📫 How to reach me khosravis982@gmail.com
+- 📫 How to reach me khosravis982@mums.ac.ir
 
 <!---
 khosravisina/khosravisina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
